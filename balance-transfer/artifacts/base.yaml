@@ -4,6 +4,9 @@
 #
 
 version: '2'
+
+999999999
+
 services:
   peer-base:
     image: hyperledger/fabric-peer:x86_64-1.1.0
